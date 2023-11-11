@@ -69,6 +69,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-clojurescript-template](https://github.com/rome-user/tauri-clojurescript-template) - Minimal ClojureScript template with Shadow CLJS and React.
 - [tauri-nuxt-template](https://github.com/HuakunShen/tauri-nuxt-template) - Nuxt3 template
 - [tauri-angular-template](https://github.com/charlesxsh/tauri-angular-boilerplate) - Angular template
+- [tauri-seaorm-template](https://github.com/jthinking/tauri-seaorm-template) - Tauri + SeaORM + SQLite template, ORM and Migration support.
 
 ## Development
 
